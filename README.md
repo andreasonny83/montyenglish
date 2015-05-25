@@ -3,7 +3,15 @@ MontyEnglish
 
 www.montyenglish.co.uk
 
-This is the WordPress theme we're currently using inside the MontyEnglish website.
+This is the WordPress project currently used inside the MontyEnglish website.
+
+How To Start
+------------
+1. First clone the repository to your local machine
+2. Download the latest database from the Download section
+3. Create a database on your local machine in where importing the database informations
+4. Edit the siteurl and home values inside the wp_options table according to your local informations (eg. http://localhost:8888/MontyEnglish.co.uk/ )
+5. Now you should be able to access the website prom your browser
 
 Grunt
 -----
