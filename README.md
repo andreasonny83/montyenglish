@@ -19,13 +19,11 @@ How To Start
 Grunt
 -----
 From inside the main folder (eg. ~/montyenglish/), just type in your terminal:
+
 * npm install
-* grunt
-  *this will compile the project in development mode*
-* grunt watch
-  *this command will watch and compile the project whenever you aport any change to the project. Is highly recommended to leave this watch running in background when you are developing changes to the website*
-* grunt build
-  *this will build a new project's version*
+* grunt ***this will compile the project in development mode***
+* grunt watch ***this command will watch and compile the project whenever you aport any change to the project. Is highly recommended to leave this watch running in background when you are developing changes to the website***
+* grunt build ***this will build a new project's version***
 
 In both the above cases, the new files will be generated inside 'wp-content/theme/Monty/css' and 'wp-content/theme/Monty/js'
 
