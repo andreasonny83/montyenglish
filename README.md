@@ -15,6 +15,7 @@ How To Start
 6. Edit the wp-config.php file in your main folder and set the database informations according to your local settings (eg: DB_NAME: monty_dev, DB_USER: root, DB_PASSWORD: root )
 7. The first time access the website from the wp-admin page (eg. http://localhost:8888/MontyEnglish/wp-admin). Reach the Settings-> General, make sure the WordPress Address (URL) and Site Address (URL) informations are correct and click save changes. Then reach the Settings -> Languages, click the Settings tab and click Save Changes again.
 8. Now you should be able to access the website from your browser
+9. Edit your project files from inside the wp-content/themes/Monty/dev folder
 
 Grunt
 -----
