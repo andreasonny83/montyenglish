@@ -17,8 +17,9 @@
 	<meta name="google-site-verification" content="reljxQXV_o64IVJWwwboPGbN6Tp-Ncm0XtPnV2FQPZM" />
 	<title>Monty English | English school in London</title>
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-	<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_directory' ); ?>/css/main.201503061601.css" type="text/css">
+	<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_directory' ); ?>/css/main.201505252321.css" type="text/css">
 	<!-- Fonts -->
 	<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_directory' ); ?>/css/font-awesome.css" type="text/css">
 	<link rel="stylesheet" href='//fonts.googleapis.com/css?family=Montserrat:400,700' type="text/css">
