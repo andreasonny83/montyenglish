@@ -1,0 +1,188 @@
+0000.434 (0) Opened log file at time: Tue, 10 Feb 2015 17:25:48 +0000 on http://www.montyenglish.co.uk
+0000.437 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.45 WP: 4.1 PHP: 5.4.36 (Linux hp65.hostpapa.com 2.6.18-498.el5.lve0.8.80 #1 SMP Fri Dec 19 10:25:14 EST 2014 x86_64) MySQL: 5.5.40-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M (used: 19.2M | 19.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0003.874 (0) Free space on disk containing Updraft's temporary directory: 61515 Mb
+0003.908 (0) Tasks: Backup files:  (schedule: weekly) Backup DB: 1 (schedule: daily)
+0004.002 (0) Processed schedules. Tasks now: Backup files:  Backup DB: 1
+0004.557 (0) Requesting semaphore lock (d)
+0004.560 (0) Set semaphore last lock (d) time to 2015-02-10 17:25:52
+0004.561 (0) Semaphore lock (d) complete
+0004.565 (0) Backup run: resumption=0, nonce=e91fb2c917cb, begun at=1423589148 (4s ago), job type=backup
+0004.566 (0) Scheduling a resumption (1) after 300 seconds (1423589452) in case this run gets aborted
+0004.763 (0) This backup run is not intended for files - skipping
+0004.773 (0) Beginning creation of database dump (WordPress DB)
+0004.834 (0) Testing: /usr/bin/mysqldump
+0005.071 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0005.177 (0) Table wp_options: Total expected rows (approximate): 1453
+0005.456 (0) Table wp_options: Total rows added: 281 in 0.18 seconds
+0005.513 (0) Table wp_options: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_options.table.gz - 183.7 Kb)
+0006.230 (0) Table wp_users: Total expected rows (approximate): 4
+0006.476 (0) Table wp_users: Total rows added: 4 in 0.02 seconds
+0006.557 (0) Table wp_users: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_users.table.gz - 0.7 Kb)
+0007.406 (0) Table wp_usermeta: Total expected rows (approximate): 116
+0007.511 (0) Table wp_usermeta: Total rows added: 116 in 0.01 seconds
+0007.598 (0) Table wp_usermeta: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_usermeta.table.gz - 2.4 Kb)
+0008.349 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0008.473 (0) Table wp_commentmeta: Total rows added: 0 in 0.02 seconds
+0008.585 (0) Table wp_commentmeta: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_commentmeta.table.gz - 0.3 Kb)
+0009.108 (0) Table wp_comments: Total expected rows (approximate): 0
+0009.389 (0) Table wp_comments: Total rows added: 0 in 0.01 seconds
+0009.486 (0) Table wp_comments: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_comments.table.gz - 0.5 Kb)
+0009.999 (0) Table wp_links: Total expected rows (approximate): 0
+0010.221 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0010.319 (0) Table wp_links: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_links.table.gz - 0.4 Kb)
+0010.752 (0) Table wp_postmeta: Total expected rows (approximate): 302
+0010.788 (0) Table wp_postmeta: Total rows added: 619 in 0.03 seconds
+0010.808 (0) Table wp_postmeta: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_postmeta.table.gz - 11.6 Kb)
+0011.452 (0) Table wp_posts: Total expected rows (approximate): 478
+0012.647 (0) Table wp_posts: Total rows added: 597 in 1.19 seconds
+0012.714 (0) Table wp_posts: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_posts.table.gz - 158.4 Kb)
+0012.891 (0) Table wp_term_relationships: Total expected rows (approximate): 150
+0012.938 (0) Table wp_term_relationships: Total rows added: 150 in 0.01 seconds
+0013.033 (0) Table wp_term_relationships: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_term_relationships.table.gz - 0.8 Kb)
+0013.364 (0) Table wp_term_taxonomy: Total expected rows (approximate): 32
+0013.372 (0) Table wp_term_taxonomy: Total rows added: 32 in 0.00 seconds
+0013.390 (0) Table wp_term_taxonomy: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_term_taxonomy.table.gz - 0.8 Kb)
+0013.722 (0) Table wp_terms: Total expected rows (approximate): 32
+0013.756 (0) Table wp_terms: Total rows added: 32 in 0.00 seconds
+0013.788 (0) Table wp_terms: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_terms.table.gz - 0.7 Kb)
+0014.155 (0) Table wp_useronline: Total expected rows (approximate): 2
+0014.267 (0) Table wp_useronline: Total rows added: 2 in 0.01 seconds
+0014.397 (0) Table wp_useronline: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_useronline.table.gz - 0.6 Kb)
+0014.563 (0) Table wp_huge_itslider_images: Total expected rows (approximate): 5
+0014.594 (0) Table wp_huge_itslider_images: Total rows added: 5 in 0.02 seconds
+0014.597 (0) Table wp_huge_itslider_images: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_huge_itslider_images.table.gz - 0.7 Kb)
+0014.929 (0) Table wp_huge_itslider_params: Total expected rows (approximate): 37
+0015.133 (0) Table wp_huge_itslider_params: Total rows added: 37 in 0.10 seconds
+0015.145 (0) Table wp_huge_itslider_params: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_huge_itslider_params.table.gz - 1 Kb)
+0015.363 (0) Table wp_huge_itslider_sliders: Total expected rows (approximate): 2
+0015.467 (0) Table wp_huge_itslider_sliders: Total rows added: 2 in 0.10 seconds
+0015.568 (0) Table wp_huge_itslider_sliders: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_huge_itslider_sliders.table.gz - 0.5 Kb)
+0015.909 (0) Table wp_masterslider_options: Total expected rows (approximate): 1
+0016.155 (0) Table wp_masterslider_options: Total rows added: 1 in 0.01 seconds
+0016.250 (0) Table wp_masterslider_options: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_masterslider_options.table.gz - 0.4 Kb)
+0016.689 (0) Table wp_masterslider_sliders: Total expected rows (approximate): 0
+0016.800 (0) Table wp_masterslider_sliders: Total rows added: 0 in 0.00 seconds
+0016.922 (0) Table wp_masterslider_sliders: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_masterslider_sliders.table.gz - 0.4 Kb)
+0017.201 (0) Table wp_nextend_smartslider_layouts: Total expected rows (approximate): 0
+0017.317 (0) Table wp_nextend_smartslider_layouts: Total rows added: 0 in 0.00 seconds
+0017.419 (0) Table wp_nextend_smartslider_layouts: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_nextend_smartslider_layouts.table.gz - 0.3 Kb)
+0017.642 (0) Table wp_nextend_smartslider_sliders: Total expected rows (approximate): 1
+0017.853 (0) Table wp_nextend_smartslider_sliders: Total rows added: 1 in 0.10 seconds
+0017.869 (0) Table wp_nextend_smartslider_sliders: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_nextend_smartslider_sliders.table.gz - 1 Kb)
+0018.084 (0) Table wp_nextend_smartslider_slides: Total expected rows (approximate): 1
+0018.205 (0) Table wp_nextend_smartslider_slides: Total rows added: 1 in 0.10 seconds
+0018.306 (0) Table wp_nextend_smartslider_slides: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_nextend_smartslider_slides.table.gz - 1 Kb)
+0018.558 (0) Table wp_nextend_smartslider_storage: Total expected rows (approximate): 5
+0018.791 (0) Table wp_nextend_smartslider_storage: Total rows added: 5 in 0.02 seconds
+0019.023 (0) Table wp_nextend_smartslider_storage: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_nextend_smartslider_storage.table.gz - 3 Kb)
+0019.463 (0) Table wp_wpfront_ure_options: Total expected rows (approximate): 1
+0019.641 (0) Table wp_wpfront_ure_options: Total rows added: 1 in 0.15 seconds
+0019.752 (0) Table wp_wpfront_ure_options: finishing file (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_wpfront_ure_options.table.gz - 0.3 Kb)
+0019.772 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_options.table.gz (1/22): adding to final database dump
+0019.882 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_users.table.gz (2/22): adding to final database dump
+0019.895 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_usermeta.table.gz (3/22): adding to final database dump
+0020.003 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_commentmeta.table.gz (4/22): adding to final database dump
+0020.010 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_comments.table.gz (5/22): adding to final database dump
+0020.014 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_links.table.gz (6/22): adding to final database dump
+0020.018 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_postmeta.table.gz (7/22): adding to final database dump
+0020.037 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_posts.table.gz (8/22): adding to final database dump
+0020.488 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_term_relationships.table.gz (9/22): adding to final database dump
+0020.571 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_term_taxonomy.table.gz (10/22): adding to final database dump
+0020.676 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_terms.table.gz (11/22): adding to final database dump
+0020.790 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_useronline.table.gz (12/22): adding to final database dump
+0021.028 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_huge_itslider_images.table.gz (13/22): adding to final database dump
+0021.131 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_huge_itslider_params.table.gz (14/22): adding to final database dump
+0021.237 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_huge_itslider_sliders.table.gz (15/22): adding to final database dump
+0021.357 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_masterslider_options.table.gz (16/22): adding to final database dump
+0021.466 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_masterslider_sliders.table.gz (17/22): adding to final database dump
+0021.484 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_nextend_smartslider_layouts.table.gz (18/22): adding to final database dump
+0021.586 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_nextend_smartslider_sliders.table.gz (19/22): adding to final database dump
+0021.605 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_nextend_smartslider_slides.table.gz (20/22): adding to final database dump
+0021.615 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_nextend_smartslider_storage.table.gz (21/22): adding to final database dump
+0021.720 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db-table-wp_wpfront_ure_options.table.gz (22/22): adding to final database dump
+0021.847 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db.gz: finished writing out complete database file (352 Kb)
+0021.987 (0) Total database tables backed up: 22 (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db.gz, size: 373629, checksum (SHA1): 30fc8bd55c8fb87a6f7c43a240d63f7387a1615b)
+0022.021 (0) Saving backup history
+0022.155 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db.gz: db: This file has not yet been successfully uploaded: will queue
+0022.293 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0022.571 (0) Cloud backup selection: googledrive
+0022.584 (0) Beginning dispatch of backup to remote (googledrive)
+0031.832 (0) Google Drive: requesting access token: client_id=162251805526-h47cobnm0288e8u7nad88tva76e2n5k9.apps.googleusercontent.com
+0037.390 (0) Google Drive: successfully obtained access token
+0038.863 (0) Google Drive quota usage: used=840.2 Mb, total=15360 Mb, available=14519.8 Mb
+0038.988 (0) backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db.gz: Attempting to upload to Google Drive (into folder id: 0B8MmJUGvFuXIU3NOVzhQU2x6aEk)
+0040.454 (0) Googledrive chunked upload: 100 % uploaded
+0040.537 (0) OK: Archive backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db.gz uploaded to Google Drive in 1.54 seconds
+0040.715 (0) Recording as successfully uploaded: backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db.gz (c7ba6930bed8d83d4e68efb407821d79)
+0040.752 (0) Deleting local file: backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db.gz: OK
+0040.866 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=15
+0040.990 (0) Number of backup sets in history: 21
+0040.995 (0) Examining backup set with datestamp: 1423589148 (Feb 10 2015 17:25:48)
+0041.001 (0) 1423589148: db: this set includes a database (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db.gz); db count is now 1
+0041.508 (0) 1423589148: this backup set remains non-empty (0/1); will retain in history
+0041.608 (0) Examining backup set with datestamp: 1423502322 (Feb 09 2015 17:18:42)
+0041.622 (0) 1423502322: db: this set includes a database (backup_2015-02-09-1718_MontyEnglish_e14c968ef4cf-db.gz); db count is now 2
+0041.989 (0) 1423502322: this backup set remains non-empty (0/1); will retain in history
+0041.996 (0) Examining backup set with datestamp: 1423416094 (Feb 08 2015 17:21:34)
+0042.000 (0) 1423416094: db: this set includes a database (backup_2015-02-08-1721_MontyEnglish_b21b775e8a45-db.gz); db count is now 3
+0042.528 (0) 1423416094: this backup set remains non-empty (0/1); will retain in history
+0042.535 (0) Examining backup set with datestamp: 1423415757 (Feb 08 2015 17:15:57)
+0042.944 (0) 1423415757: this backup set remains non-empty (1/0); will retain in history
+0042.966 (0) Examining backup set with datestamp: 1423329411 (Feb 07 2015 17:16:51)
+0042.988 (0) 1423329411: db: this set includes a database (backup_2015-02-07-1716_MontyEnglish_0cf3c5229a5d-db.gz); db count is now 4
+0043.409 (0) 1423329411: this backup set remains non-empty (0/1); will retain in history
+0043.419 (0) Examining backup set with datestamp: 1423242958 (Feb 06 2015 17:15:58)
+0043.433 (0) 1423242958: db: this set includes a database (backup_2015-02-06-1715_MontyEnglish_5fdecfaacd52-db.gz); db count is now 5
+0043.815 (0) 1423242958: this backup set remains non-empty (0/1); will retain in history
+0043.832 (0) Examining backup set with datestamp: 1423156560 (Feb 05 2015 17:16:00)
+0043.933 (0) 1423156560: db: this set includes a database (backup_2015-02-05-1716_MontyEnglish_f77bf9fc431a-db.gz); db count is now 6
+0044.436 (0) 1423156560: this backup set remains non-empty (0/1); will retain in history
+0044.546 (0) Examining backup set with datestamp: 1423071204 (Feb 04 2015 17:33:24)
+0044.552 (0) 1423071204: db: this set includes a database (backup_2015-02-04-1733_MontyEnglish_ee308f9c6fbb-db.gz); db count is now 7
+0044.960 (0) 1423071204: this backup set remains non-empty (0/1); will retain in history
+0044.965 (0) Examining backup set with datestamp: 1422984536 (Feb 03 2015 17:28:56)
+0044.967 (0) 1422984536: db: this set includes a database (backup_2015-02-03-1728_MontyEnglish_6415c3c953ca-db.gz); db count is now 8
+0045.373 (0) 1422984536: this backup set remains non-empty (0/1); will retain in history
+0045.384 (0) Examining backup set with datestamp: 1422897625 (Feb 02 2015 17:20:25)
+0045.397 (0) 1422897625: db: this set includes a database (backup_2015-02-02-1720_MontyEnglish_07af426edbdd-db.gz); db count is now 9
+0047.361 (0) 1422897625: this backup set remains non-empty (0/1); will retain in history
+0047.463 (0) Examining backup set with datestamp: 1422812093 (Feb 01 2015 17:34:53)
+0047.564 (0) 1422812093: db: this set includes a database (backup_2015-02-01-1734_MontyEnglish_35e4435860ea-db.gz); db count is now 10
+0048.065 (0) 1422812093: this backup set remains non-empty (0/1); will retain in history
+0048.074 (0) Examining backup set with datestamp: 1422811803 (Feb 01 2015 17:30:03)
+0048.528 (0) 1422811803: this backup set remains non-empty (1/0); will retain in history
+0048.628 (0) Examining backup set with datestamp: 1422725815 (Jan 31 2015 17:36:55)
+0048.646 (0) 1422725815: db: this set includes a database (backup_2015-01-31-1736_MontyEnglish_b5d0434ec11f-db.gz); db count is now 11
+0049.120 (0) 1422725815: this backup set remains non-empty (0/1); will retain in history
+0049.126 (0) Examining backup set with datestamp: 1422639686 (Jan 30 2015 17:41:26)
+0049.129 (0) 1422639686: db: this set includes a database (backup_2015-01-30-1741_MontyEnglish_5969fa44a0c2-db.gz); db count is now 12
+0049.530 (0) 1422639686: this backup set remains non-empty (0/1); will retain in history
+0049.631 (0) Examining backup set with datestamp: 1422552797 (Jan 29 2015 17:33:17)
+0049.730 (0) 1422552797: db: this set includes a database (backup_2015-01-29-1733_MontyEnglish_8d49ed13f5c8-db.gz); db count is now 13
+0050.251 (0) 1422552797: this backup set remains non-empty (0/1); will retain in history
+0050.257 (0) Examining backup set with datestamp: 1422465506 (Jan 28 2015 17:18:26)
+0050.358 (0) 1422465506: db: this set includes a database (backup_2015-01-28-1718_MontyEnglish_5f0be2e32b87-db.gz); db count is now 14
+0051.057 (0) 1422465506: this backup set remains non-empty (0/1); will retain in history
+0051.157 (0) Examining backup set with datestamp: 1422378993 (Jan 27 2015 17:16:33)
+0051.179 (0) 1422378993: db: this set includes a database (backup_2015-01-27-1716_MontyEnglish_0b816ad91de6-db.gz); db count is now 15
+0051.683 (0) 1422378993: this backup set remains non-empty (0/1); will retain in history
+0051.688 (0) Examining backup set with datestamp: 1422292641 (Jan 26 2015 17:17:21)
+0051.793 (0) 1422292641: db: this set includes a database (backup_2015-01-26-1717_MontyEnglish_cfbf745b333a-db.gz); db count is now 16
+0051.794 (0) 1422292641: db: over retain limit (15); will delete this database
+0051.795 (0) Delete file: backup_2015-01-26-1717_MontyEnglish_cfbf745b333a-db.gz, service=googledrive
+0052.723 (0) backup_2015-01-26-1717_MontyEnglish_cfbf745b333a-db.gz: Deletion successful
+0053.359 (0) 1422292641: this backup set is now empty; will remove from history
+0053.459 (0) 1422292641: deleting log file (log.cfbf745b333a.txt)
+0053.481 (0) Examining backup set with datestamp: 1422206409 (Jan 25 2015 17:20:09)
+0053.952 (0) 1422206409: this backup set remains non-empty (1/0); will retain in history
+0054.051 (0) Examining backup set with datestamp: 1421601475 (Jan 18 2015 17:17:55)
+0054.428 (0) 1421601475: this backup set remains non-empty (1/0); will retain in history
+0054.528 (0) Examining backup set with datestamp: 1420997381 (Jan 11 2015 17:29:41)
+0055.128 (0) 1420997381: this backup set remains non-empty (1/0); will retain in history
+0055.133 (0) Retain: saving new backup history (sets now: 20) and finishing retain operation
+0055.152 (0) Resume backup (e91fb2c917cb, 0): finish run
+0055.173 (0) Decremented the semaphore (d) by 1
+0055.183 (0) Semaphore (d) unlocked
+0055.189 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0055.201 (0) No email will/can be sent - the user has not configured an email address.
+0055.202 (0) The backup apparently succeeded and is now complete

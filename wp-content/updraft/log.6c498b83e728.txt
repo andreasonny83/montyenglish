@@ -1,0 +1,369 @@
+0001.868 (0) Opened log file at time: Sun, 03 May 2015 17:25:59 +0000 on http://www.montyenglish.co.uk
+0009.170 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.60 WP: 4.1.1 PHP: 5.4.36 (Linux hp65.hostpapa.com 2.6.18-498.el5.lve0.8.80 #1 SMP Fri Dec 19 10:25:14 EST 2014 x86_64) MySQL: 5.5.40-cll Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 128M (used: 20M | 20.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0013.394 (0) Free space on disk containing Updraft's temporary directory: 86982 Mb
+0013.410 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: daily)
+0013.442 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0014.393 (0) Requesting semaphore lock (f)
+0014.438 (0) Set semaphore last lock (f) time to 2015-05-03 17:26:12
+0014.486 (0) Semaphore lock (f) complete
+0014.558 (0) Backup run: resumption=0, nonce=6c498b83e728, begun at=1430673957 (15s ago), job type=backup
+0014.595 (0) Scheduling a resumption (1) after 300 seconds (1430674272) in case this run gets aborted
+0015.031 (0) Checking if we have a zip executable available
+0015.051 (0) Creation of backups of directories: beginning
+0015.079 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0123.977 (0) Total entities for the zip file: 326 directories, 2234 files (0 skipped as non-modified), 29.4 Mb
+0123.990 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0124.245 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 100 files added (on-disk size: 52.1 Kb)
+0124.339 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 200 files added (on-disk size: 52.1 Kb)
+0124.439 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 300 files added (on-disk size: 52.1 Kb)
+0124.452 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 400 files added (on-disk size: 52.1 Kb)
+0124.551 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 500 files added (on-disk size: 52.1 Kb)
+0124.642 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.3 Mb, 2234 files batched, 501 (502) added so far); re-opening (prior size: 52.1 Kb)
+0153.222 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 600 files added (on-disk size: 3165.1 Kb)
+0153.249 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 700 files added (on-disk size: 3165.1 Kb)
+0153.265 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 800 files added (on-disk size: 3165.1 Kb)
+0153.284 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 900 files added (on-disk size: 3165.1 Kb)
+0153.306 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 1000 files added (on-disk size: 3165.1 Kb)
+0153.328 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.2 Mb, 2234 files batched, 501 (1003) added so far); re-opening (prior size: 3165.1 Kb)
+0187.320 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 1100 files added (on-disk size: 7801.9 Kb)
+0187.431 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 1200 files added (on-disk size: 7801.9 Kb)
+0187.536 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 1300 files added (on-disk size: 7801.9 Kb)
+0187.638 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 1400 files added (on-disk size: 7801.9 Kb)
+0187.746 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 1500 files added (on-disk size: 7801.9 Kb)
+0187.822 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.6 Mb, 2234 files batched, 501 (1504) added so far); re-opening (prior size: 7801.9 Kb)
+0204.570 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 1600 files added (on-disk size: 9195.1 Kb)
+0204.665 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 1700 files added (on-disk size: 9195.1 Kb)
+0204.696 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 1800 files added (on-disk size: 9195.1 Kb)
+0204.806 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 1900 files added (on-disk size: 9195.1 Kb)
+0204.907 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 2000 files added (on-disk size: 9195.1 Kb)
+0204.984 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.7 Mb, 2234 files batched, 501 (2005) added so far); re-opening (prior size: 9195.1 Kb)
+0221.363 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 2100 files added (on-disk size: 10410.9 Kb)
+0221.453 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip.tmp: 2200 files added (on-disk size: 10410.9 Kb)
+0228.611 (0) Created plugins zip (0) - 11494.5 Kb in 211.8 s (54.3 Kb/s) (SHA1 checksum: 7f7c40524941f64c815cc373cd146400938e07c6)
+0228.713 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0230.223 (0) Total entities for the zip file: 7 directories, 37 files (0 skipped as non-modified), 1.2 Mb
+0233.171 (0) Created themes zip (0) - 760.9 Kb in 3.7 s (208.5 Kb/s) (SHA1 checksum: c4af2af1a01e247b79e2a80c557b91e59aef733f)
+0233.175 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0233.274 (0) Looking for candidates to back up in: /home/monty200/public_html/wp-content/uploads
+0233.374 (0) finding files: 2012: adding to list (1)
+0233.474 (0) finding files: 2014: adding to list (2)
+0233.478 (0) finding files: 2015: adding to list (3)
+0233.578 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0235.654 (0) Total entities for the zip file: 15 directories, 353 files (0 skipped as non-modified), 72.9 Mb
+0235.963 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0235.970 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 Mb added on this batch (29.1 Mb, 353 files batched, 141 (141) added so far); re-opening (prior size: 0 Kb)
+0277.962 (0) The time we have been running (275.8) is approaching the resumption interval (300) - increasing resumption interval to 306
+0278.162 (0) The scheduled resumption is within 45 seconds - will reschedule
+0278.286 (0) Rescheduling resumption 1: moving to 351 seconds from now (1430674587)
+0278.488 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 306 + 45 = 351
+0278.588 (0) A useful amount of data was added after this amount of zip processing: 44.6 s (normalised: 38.2 s, rate: 669.7 Kb/s)
+0278.719 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-uploads.zip.tmp: 200 files added (on-disk size: 28463 Kb)
+0278.817 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 Mb added on this batch (25.1 Mb, 353 files batched, 94 (235) added so far); re-opening (prior size: 28463 Kb)
+0305.132 (0) A useful amount of data was added after this amount of zip processing: 27.1 s (normalised: 27 s, rate: 948.5 Kb/s)
+0305.338 (0) Zip: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-uploads.zip.tmp: 300 files added (on-disk size: 53074.5 Kb)
+0328.706 (0) The time we have been running (326.7) is approaching the resumption interval (351) - increasing resumption interval to 357
+0330.061 (0) Created uploads zip (0) - 70741.2 Kb in 95.7 s (739.2 Kb/s) (SHA1 checksum: 771ad17d8de2145bda6808a9a613938a836cab15)
+0330.182 (0) Beginning backup of other directories found in the content directory (index: 0)
+0330.185 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups
+0330.188 (0) Looking for candidates to back up in: /home/monty200/public_html/wp-content
+0330.288 (0) finding files: index.php: adding to list (1)
+0330.303 (0) finding files: languages: adding to list (2)
+0330.311 (0) finding files: debug.log: adding to list (3)
+0330.411 (0) finding files: updraft: skipping: this is the updraft directory
+0330.432 (0) finding files: upgrade: skipping: excluded by options
+0330.532 (0) finding files: plugins: skipping: this is the plugins directory
+0330.632 (0) finding files: themes: skipping: this is the themes directory
+0330.634 (0) finding files: uploads: skipping: this is the uploads directory
+0331.790 (0) Total entities for the zip file: 1 directories, 26 files (0 skipped as non-modified), 3.7 Mb
+0338.281 (0) The time we have been running (336.4) is approaching the resumption interval (357) - increasing resumption interval to 367
+0338.397 (0) Created others zip (0) - 1041 Kb in 6.9 s (151.8 Kb/s) (SHA1 checksum: a87450f20c0b18e15b4c95c2663ec58c0382f2f6)
+0338.630 (0) Saving backup status to database (elements: 8)
+0338.768 (0) No database backup (wp) - not part of this run
+0338.867 (0) Saving backup history
+0338.969 (0) backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0339.068 (0) backup_2015-05-03-1825_MontyEnglish_6c498b83e728-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0339.179 (0) backup_2015-05-03-1825_MontyEnglish_6c498b83e728-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0339.190 (0) backup_2015-05-03-1825_MontyEnglish_6c498b83e728-others.zip: others: This file has not yet been successfully uploaded: will queue
+0339.413 (0) Requesting upload of the files that have not yet been successfully uploaded (4)
+0339.550 (0) Cloud backup selection: googledrive
+0339.650 (0) Beginning dispatch of backup to remote (googledrive)
+0339.698 (0) Google Drive: requesting access token: client_id=162251805526-h47cobnm0288e8u7nad88tva76e2n5k9.apps.googleusercontent.com
+0339.915 (0) Google Drive: successfully obtained access token
+0341.220 (0) Google Drive quota usage: used=851.6 Mb, total=15360 Mb, available=14508.4 Mb
+0341.247 (0) backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip: Attempting to upload to Google Drive (into folder id: 0B8MmJUGvFuXIU3NOVzhQU2x6aEk)
+0342.524 (0) The time we have been running (340.4) is approaching the resumption interval (367) - increasing resumption interval to 371
+0342.540 (0) Googledrive chunked upload: 8.9 % uploaded (1048576)
+0343.397 (0) The time we have been running (341.3) is approaching the resumption interval (371) - increasing resumption interval to 372
+0343.597 (0) Googledrive chunked upload: 17.8 % uploaded (2097152)
+0344.510 (0) The time we have been running (342.5) is approaching the resumption interval (372) - increasing resumption interval to 373
+0344.531 (0) Googledrive chunked upload: 26.7 % uploaded (3145728)
+0345.310 (0) The time we have been running (343.4) is approaching the resumption interval (373) - increasing resumption interval to 374
+0345.511 (0) Googledrive chunked upload: 35.6 % uploaded (4194304)
+0346.753 (0) The time we have been running (344.7) is approaching the resumption interval (374) - increasing resumption interval to 375
+0346.765 (0) Googledrive chunked upload: 44.5 % uploaded (5242880)
+0347.829 (0) The time we have been running (345.8) is approaching the resumption interval (375) - increasing resumption interval to 376
+0347.849 (0) Googledrive chunked upload: 53.5 % uploaded (6291456)
+0348.684 (0) The time we have been running (346.7) is approaching the resumption interval (376) - increasing resumption interval to 377
+0348.783 (0) Googledrive chunked upload: 62.4 % uploaded (7340032)
+0349.492 (0) The time we have been running (347.6) is approaching the resumption interval (377) - increasing resumption interval to 378
+0349.504 (0) Googledrive chunked upload: 71.3 % uploaded (8388608)
+0350.301 (0) The time we have been running (348.4) is approaching the resumption interval (378) - increasing resumption interval to 379
+0350.402 (0) Googledrive chunked upload: 80.2 % uploaded (9437184)
+0351.418 (0) The time we have been running (349.4) is approaching the resumption interval (379) - increasing resumption interval to 380
+0351.530 (0) Googledrive chunked upload: 89.1 % uploaded (10485760)
+0352.436 (0) The time we have been running (350.5) is approaching the resumption interval (380) - increasing resumption interval to 381
+0352.452 (0) Googledrive chunked upload: 98 % uploaded (11534336)
+0354.095 (0) The time we have been running (352) is approaching the resumption interval (381) - increasing resumption interval to 383
+0354.101 (0) Googledrive chunked upload: 100 % uploaded (11534336)
+0354.220 (0) OK: Archive backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip uploaded to Google Drive in 12.97 seconds
+0354.331 (0) Recording as successfully uploaded: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip (571b25ac354ebe6c360a8a91bb965576)
+0354.699 (0) Deleting local file: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-plugins.zip: OK
+0355.171 (0) Google Drive quota usage: used=862.8 Mb, total=15360 Mb, available=14497.2 Mb
+0355.380 (0) backup_2015-05-03-1825_MontyEnglish_6c498b83e728-themes.zip: Attempting to upload to Google Drive (into folder id: 0B8MmJUGvFuXIU3NOVzhQU2x6aEk)
+0357.154 (0) The time we have been running (355) is approaching the resumption interval (383) - increasing resumption interval to 385
+0357.167 (0) Googledrive chunked upload: 100 % uploaded
+0357.275 (0) OK: Archive backup_2015-05-03-1825_MontyEnglish_6c498b83e728-themes.zip uploaded to Google Drive in 1.89 seconds
+0357.400 (0) Recording as successfully uploaded: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-themes.zip (3f17688f26fea781f677033632235b3a)
+0357.610 (0) Deleting local file: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-themes.zip: OK
+0358.105 (0) Google Drive quota usage: used=863.5 Mb, total=15360 Mb, available=14496.5 Mb
+0358.257 (0) backup_2015-05-03-1825_MontyEnglish_6c498b83e728-uploads.zip: Attempting to upload to Google Drive (into folder id: 0B8MmJUGvFuXIU3NOVzhQU2x6aEk)
+0359.447 (0) The time we have been running (357.3) is approaching the resumption interval (385) - increasing resumption interval to 388
+0359.769 (0) Googledrive chunked upload: 1.4 % uploaded (1048576)
+0360.859 (0) The time we have been running (358.9) is approaching the resumption interval (388) - increasing resumption interval to 389
+0361.076 (0) Googledrive chunked upload: 2.9 % uploaded (2097152)
+0362.085 (0) The time we have been running (360.1) is approaching the resumption interval (389) - increasing resumption interval to 391
+0362.197 (0) Googledrive chunked upload: 4.3 % uploaded (3145728)
+0363.119 (0) The time we have been running (361.2) is approaching the resumption interval (391) - increasing resumption interval to 392
+0363.123 (0) Googledrive chunked upload: 5.8 % uploaded (4194304)
+0363.942 (0) Googledrive chunked upload: 7.2 % uploaded (5242880)
+0365.201 (0) The time we have been running (363) is approaching the resumption interval (392) - increasing resumption interval to 394
+0365.515 (0) Googledrive chunked upload: 8.7 % uploaded (6291456)
+0366.650 (0) The time we have been running (364.5) is approaching the resumption interval (394) - increasing resumption interval to 395
+0366.770 (0) Googledrive chunked upload: 10.1 % uploaded (7340032)
+0367.720 (0) The time we have been running (365.8) is approaching the resumption interval (395) - increasing resumption interval to 396
+0367.723 (0) Googledrive chunked upload: 11.6 % uploaded (8388608)
+0368.620 (0) The time we have been running (366.5) is approaching the resumption interval (396) - increasing resumption interval to 397
+0368.821 (0) Googledrive chunked upload: 13 % uploaded (9437184)
+0369.998 (0) The time we have been running (367.9) is approaching the resumption interval (397) - increasing resumption interval to 398
+0370.100 (0) Googledrive chunked upload: 14.5 % uploaded (10485760)
+0370.818 (0) The time we have been running (368.9) is approaching the resumption interval (398) - increasing resumption interval to 399
+0370.821 (0) Googledrive chunked upload: 15.9 % uploaded (11534336)
+0371.590 (0) The time we have been running (369.6) is approaching the resumption interval (399) - increasing resumption interval to 400
+0371.594 (0) Googledrive chunked upload: 17.4 % uploaded (12582912)
+0372.611 (0) The time we have been running (370.4) is approaching the resumption interval (400) - increasing resumption interval to 401
+0372.713 (0) Googledrive chunked upload: 18.8 % uploaded (13631488)
+0373.298 (0) The time we have been running (371.4) is approaching the resumption interval (401) - increasing resumption interval to 402
+0373.402 (0) Googledrive chunked upload: 20.3 % uploaded (14680064)
+0374.434 (0) The time we have been running (372.4) is approaching the resumption interval (402) - increasing resumption interval to 403
+0374.438 (0) Googledrive chunked upload: 21.7 % uploaded (15728640)
+0375.290 (0) The time we have been running (373.3) is approaching the resumption interval (403) - increasing resumption interval to 404
+0375.490 (0) Googledrive chunked upload: 23.2 % uploaded (16777216)
+0376.611 (0) The time we have been running (374.5) is approaching the resumption interval (404) - increasing resumption interval to 405
+0376.714 (0) Googledrive chunked upload: 24.6 % uploaded (17825792)
+0378.034 (0) The time we have been running (375.7) is approaching the resumption interval (405) - increasing resumption interval to 406
+0378.240 (0) Googledrive chunked upload: 26.1 % uploaded (18874368)
+0379.318 (0) The time we have been running (377.1) is approaching the resumption interval (406) - increasing resumption interval to 408
+0379.518 (0) Googledrive chunked upload: 27.5 % uploaded (19922944)
+0380.515 (0) The time we have been running (378.4) is approaching the resumption interval (408) - increasing resumption interval to 409
+0380.814 (0) Googledrive chunked upload: 29 % uploaded (20971520)
+0382.254 (0) The time we have been running (379.9) is approaching the resumption interval (409) - increasing resumption interval to 410
+0382.482 (0) Googledrive chunked upload: 30.4 % uploaded (22020096)
+0383.206 (0) The time we have been running (381.3) is approaching the resumption interval (410) - increasing resumption interval to 412
+0383.211 (0) Googledrive chunked upload: 31.8 % uploaded (23068672)
+0383.947 (0) Googledrive chunked upload: 33.3 % uploaded (24117248)
+0384.771 (0) The time we have been running (382.9) is approaching the resumption interval (412) - increasing resumption interval to 413
+0384.779 (0) Googledrive chunked upload: 34.7 % uploaded (25165824)
+0385.669 (0) The time we have been running (383.6) is approaching the resumption interval (413) - increasing resumption interval to 414
+0385.868 (0) Googledrive chunked upload: 36.2 % uploaded (26214400)
+0386.942 (0) The time we have been running (384.9) is approaching the resumption interval (414) - increasing resumption interval to 415
+0386.957 (0) Googledrive chunked upload: 37.6 % uploaded (27262976)
+0387.811 (0) The time we have been running (385.8) is approaching the resumption interval (415) - increasing resumption interval to 416
+0387.913 (0) Googledrive chunked upload: 39.1 % uploaded (28311552)
+0388.858 (0) The time we have been running (386.9) is approaching the resumption interval (416) - increasing resumption interval to 417
+0388.963 (0) Googledrive chunked upload: 40.5 % uploaded (29360128)
+0390.021 (0) The time we have been running (388) is approaching the resumption interval (417) - increasing resumption interval to 418
+0390.253 (0) Googledrive chunked upload: 42 % uploaded (30408704)
+0390.959 (0) The time we have been running (389.1) is approaching the resumption interval (418) - increasing resumption interval to 420
+0391.359 (0) Googledrive chunked upload: 43.4 % uploaded (31457280)
+0392.359 (0) The time we have been running (390.3) is approaching the resumption interval (420) - increasing resumption interval to 421
+0392.559 (0) Googledrive chunked upload: 44.9 % uploaded (32505856)
+0393.895 (0) The time we have been running (391.8) is approaching the resumption interval (421) - increasing resumption interval to 422
+0393.996 (0) Googledrive chunked upload: 46.3 % uploaded (33554432)
+0394.836 (0) The time we have been running (392.9) is approaching the resumption interval (422) - increasing resumption interval to 423
+0394.953 (0) Googledrive chunked upload: 47.8 % uploaded (34603008)
+0396.219 (0) The time we have been running (394) is approaching the resumption interval (423) - increasing resumption interval to 425
+0396.320 (0) Googledrive chunked upload: 49.2 % uploaded (35651584)
+0397.418 (0) The time we have been running (395.3) is approaching the resumption interval (425) - increasing resumption interval to 426
+0397.520 (0) Googledrive chunked upload: 50.7 % uploaded (36700160)
+0398.365 (0) The time we have been running (396.5) is approaching the resumption interval (426) - increasing resumption interval to 427
+0398.439 (0) Googledrive chunked upload: 52.1 % uploaded (37748736)
+0399.499 (0) The time we have been running (397.4) is approaching the resumption interval (427) - increasing resumption interval to 428
+0399.509 (0) Googledrive chunked upload: 53.6 % uploaded (38797312)
+0400.208 (0) The time we have been running (398.3) is approaching the resumption interval (428) - increasing resumption interval to 429
+0400.316 (0) Googledrive chunked upload: 55 % uploaded (39845888)
+0401.137 (0) The time we have been running (399.3) is approaching the resumption interval (429) - increasing resumption interval to 430
+0401.141 (0) Googledrive chunked upload: 56.5 % uploaded (40894464)
+0401.832 (0) Googledrive chunked upload: 57.9 % uploaded (41943040)
+0402.801 (0) The time we have been running (400.7) is approaching the resumption interval (430) - increasing resumption interval to 431
+0402.903 (0) Googledrive chunked upload: 59.3 % uploaded (42991616)
+0404.232 (0) The time we have been running (402) is approaching the resumption interval (431) - increasing resumption interval to 432
+0404.352 (0) Googledrive chunked upload: 60.8 % uploaded (44040192)
+0405.128 (0) The time we have been running (403.3) is approaching the resumption interval (432) - increasing resumption interval to 434
+0405.130 (0) Googledrive chunked upload: 62.2 % uploaded (45088768)
+0405.714 (0) Googledrive chunked upload: 63.7 % uploaded (46137344)
+0406.833 (0) The time we have been running (404.8) is approaching the resumption interval (434) - increasing resumption interval to 435
+0407.033 (0) Googledrive chunked upload: 65.1 % uploaded (47185920)
+0408.089 (0) The time we have been running (406) is approaching the resumption interval (435) - increasing resumption interval to 437
+0408.415 (0) Googledrive chunked upload: 66.6 % uploaded (48234496)
+0409.570 (0) The time we have been running (407.4) is approaching the resumption interval (437) - increasing resumption interval to 438
+0409.768 (0) Googledrive chunked upload: 68 % uploaded (49283072)
+0410.879 (0) The time we have been running (408.8) is approaching the resumption interval (438) - increasing resumption interval to 439
+0410.988 (0) Googledrive chunked upload: 69.5 % uploaded (50331648)
+0411.864 (0) The time we have been running (409.7) is approaching the resumption interval (439) - increasing resumption interval to 440
+0412.065 (0) Googledrive chunked upload: 70.9 % uploaded (51380224)
+0413.119 (0) The time we have been running (411) is approaching the resumption interval (440) - increasing resumption interval to 442
+0413.318 (0) Googledrive chunked upload: 72.4 % uploaded (52428800)
+0414.367 (0) The time we have been running (412.4) is approaching the resumption interval (442) - increasing resumption interval to 443
+0414.484 (0) Googledrive chunked upload: 73.8 % uploaded (53477376)
+0415.625 (0) The time we have been running (413.6) is approaching the resumption interval (443) - increasing resumption interval to 444
+0415.826 (0) Googledrive chunked upload: 75.3 % uploaded (54525952)
+0416.611 (0) The time we have been running (414.7) is approaching the resumption interval (444) - increasing resumption interval to 445
+0416.618 (0) Googledrive chunked upload: 76.7 % uploaded (55574528)
+0417.723 (0) The time we have been running (415.6) is approaching the resumption interval (445) - increasing resumption interval to 446
+0417.850 (0) Googledrive chunked upload: 78.2 % uploaded (56623104)
+0418.621 (0) The time we have been running (416.7) is approaching the resumption interval (446) - increasing resumption interval to 447
+0418.641 (0) Googledrive chunked upload: 79.6 % uploaded (57671680)
+0419.375 (0) The time we have been running (417.5) is approaching the resumption interval (447) - increasing resumption interval to 448
+0419.381 (0) Googledrive chunked upload: 81.1 % uploaded (58720256)
+0420.557 (0) The time we have been running (418.4) is approaching the resumption interval (448) - increasing resumption interval to 449
+0420.757 (0) Googledrive chunked upload: 82.5 % uploaded (59768832)
+0421.414 (0) The time we have been running (419.5) is approaching the resumption interval (449) - increasing resumption interval to 450
+0421.416 (0) Googledrive chunked upload: 84 % uploaded (60817408)
+0422.231 (0) The time we have been running (420.1) is approaching the resumption interval (450) - increasing resumption interval to 451
+0422.352 (0) Googledrive chunked upload: 85.4 % uploaded (61865984)
+0423.451 (0) The time we have been running (421.3) is approaching the resumption interval (451) - increasing resumption interval to 452
+0423.667 (0) Googledrive chunked upload: 86.9 % uploaded (62914560)
+0424.742 (0) The time we have been running (422.8) is approaching the resumption interval (452) - increasing resumption interval to 453
+0424.853 (0) Googledrive chunked upload: 88.3 % uploaded (63963136)
+0425.742 (0) The time we have been running (423.8) is approaching the resumption interval (453) - increasing resumption interval to 454
+0425.747 (0) Googledrive chunked upload: 89.7 % uploaded (65011712)
+0426.326 (0) The time we have been running (424.5) is approaching the resumption interval (454) - increasing resumption interval to 455
+0426.329 (0) Googledrive chunked upload: 91.2 % uploaded (66060288)
+0427.186 (0) The time we have been running (425.1) is approaching the resumption interval (455) - increasing resumption interval to 456
+0427.387 (0) Googledrive chunked upload: 92.6 % uploaded (67108864)
+0428.133 (0) The time we have been running (426.3) is approaching the resumption interval (456) - increasing resumption interval to 457
+0428.234 (0) Googledrive chunked upload: 94.1 % uploaded (68157440)
+0429.291 (0) The time we have been running (427.1) is approaching the resumption interval (457) - increasing resumption interval to 458
+0429.412 (0) Googledrive chunked upload: 95.5 % uploaded (69206016)
+0430.752 (0) The time we have been running (428.6) is approaching the resumption interval (458) - increasing resumption interval to 459
+0430.952 (0) Googledrive chunked upload: 97 % uploaded (70254592)
+0432.263 (0) The time we have been running (430.1) is approaching the resumption interval (459) - increasing resumption interval to 461
+0432.374 (0) Googledrive chunked upload: 98.4 % uploaded (71303168)
+0433.547 (0) The time we have been running (431.6) is approaching the resumption interval (461) - increasing resumption interval to 462
+0433.747 (0) Googledrive chunked upload: 99.9 % uploaded (72351744)
+0435.258 (0) The time we have been running (433.2) is approaching the resumption interval (462) - increasing resumption interval to 464
+0435.378 (0) Googledrive chunked upload: 100 % uploaded (72351744)
+0435.589 (0) OK: Archive backup_2015-05-03-1825_MontyEnglish_6c498b83e728-uploads.zip uploaded to Google Drive in 77.31 seconds
+0435.698 (0) Recording as successfully uploaded: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-uploads.zip (e2f491b4536cbadb96a5ef00b0008113)
+0436.253 (0) Deleting local file: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-uploads.zip: OK
+0436.600 (0) Google Drive quota usage: used=932.6 Mb, total=15360 Mb, available=14427.4 Mb
+0436.680 (0) backup_2015-05-03-1825_MontyEnglish_6c498b83e728-others.zip: Attempting to upload to Google Drive (into folder id: 0B8MmJUGvFuXIU3NOVzhQU2x6aEk)
+0437.840 (0) The time we have been running (436) is approaching the resumption interval (464) - increasing resumption interval to 466
+0437.855 (0) Googledrive chunked upload: 98.4 % uploaded (1048576)
+0438.882 (0) The time we have been running (437) is approaching the resumption interval (466) - increasing resumption interval to 467
+0438.988 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0439.130 (0) OK: Archive backup_2015-05-03-1825_MontyEnglish_6c498b83e728-others.zip uploaded to Google Drive in 2.35 seconds
+0439.252 (0) Recording as successfully uploaded: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-others.zip (3af72499406a4089063a9fcbe40ff490)
+0439.393 (0) Deleting local file: backup_2015-05-03-1825_MontyEnglish_6c498b83e728-others.zip: OK
+0439.499 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=5, retain_db=15
+0439.505 (0) Number of backup sets in history: 21
+0439.605 (0) Examining backup set with datestamp: 1430673957 (May 03 2015 17:25:57)
+0440.272 (0) The time we have been running (438.3) is approaching the resumption interval (467) - increasing resumption interval to 469
+0440.388 (0) 1430673957: this backup set remains non-empty (1/0); will retain in history
+0440.393 (0) Examining backup set with datestamp: 1430068559 (Apr 26 2015 17:15:59)
+0440.834 (0) 1430068559: this backup set remains non-empty (1/0); will retain in history
+0440.836 (0) Examining backup set with datestamp: 1429464026 (Apr 19 2015 17:20:26)
+0441.225 (0) The time we have been running (439.3) is approaching the resumption interval (469) - increasing resumption interval to 470
+0441.332 (0) 1429464026: this backup set remains non-empty (1/0); will retain in history
+0441.432 (0) Examining backup set with datestamp: 1428859076 (Apr 12 2015 17:17:56)
+0441.895 (0) 1428859076: this backup set remains non-empty (1/0); will retain in history
+0441.996 (0) Examining backup set with datestamp: 1428254864 (Apr 05 2015 17:27:44)
+0442.453 (0) The time we have been running (440.5) is approaching the resumption interval (470) - increasing resumption interval to 471
+0442.557 (0) 1428254864: this backup set remains non-empty (1/0); will retain in history
+0442.565 (0) Examining backup set with datestamp: 1427649386 (Mar 29 2015 17:16:26)
+0442.571 (0) plugins: 1427649386: over retain limit (5); will delete this file (backup_2015-03-29-1816_MontyEnglish_63952478f253-plugins.zip)
+0442.585 (0) themes: 1427649386: over retain limit (5); will delete this file (backup_2015-03-29-1816_MontyEnglish_63952478f253-themes.zip)
+0442.605 (0) uploads: 1427649386: over retain limit (5); will delete this file (backup_2015-03-29-1816_MontyEnglish_63952478f253-uploads.zip)
+0442.609 (0) others: 1427649386: over retain limit (5); will delete this file (backup_2015-03-29-1816_MontyEnglish_63952478f253-others.zip)
+0442.628 (0) Delete file: backup_2015-03-29-1816_MontyEnglish_63952478f253-plugins.zip, service=googledrive
+0442.728 (0) Delete file: backup_2015-03-29-1816_MontyEnglish_63952478f253-themes.zip, service=googledrive
+0442.731 (0) Delete file: backup_2015-03-29-1816_MontyEnglish_63952478f253-uploads.zip, service=googledrive
+0442.858 (0) Delete file: backup_2015-03-29-1816_MontyEnglish_63952478f253-others.zip, service=googledrive
+0443.678 (0) backup_2015-03-29-1816_MontyEnglish_63952478f253-others.zip: Deletion successful
+0444.260 (0) backup_2015-03-29-1816_MontyEnglish_63952478f253-uploads.zip: Deletion successful
+0444.653 (0) backup_2015-03-29-1816_MontyEnglish_63952478f253-themes.zip: Deletion successful
+0445.070 (0) backup_2015-03-29-1816_MontyEnglish_63952478f253-plugins.zip: Deletion successful
+0445.145 (0) The time we have been running (443.3) is approaching the resumption interval (471) - increasing resumption interval to 474
+0445.147 (0) 1427649386: this backup set is now empty; will remove from history
+0445.148 (0) 1427649386: deleting log file (log.63952478f253.txt)
+0445.160 (0) Examining backup set with datestamp: 1424193362 (Feb 17 2015 17:16:02)
+0445.161 (0) 1424193362: db: this set includes a database (backup_2015-02-17-1716_MontyEnglish_88ad887e19f2-db.gz); db count is now 1
+0445.550 (0) 1424193362: this backup set remains non-empty (0/1); will retain in history
+0445.651 (0) Examining backup set with datestamp: 1424107046 (Feb 16 2015 17:17:26)
+0445.656 (0) 1424107046: db: this set includes a database (backup_2015-02-16-1717_MontyEnglish_bb7017ab92ba-db.gz); db count is now 2
+0446.092 (0) The time we have been running (444.1) is approaching the resumption interval (474) - increasing resumption interval to 475
+0446.653 (0) 1424107046: this backup set remains non-empty (0/1); will retain in history
+0446.868 (0) Examining backup set with datestamp: 1424022092 (Feb 15 2015 17:41:32)
+0446.870 (0) 1424022092: db: this set includes a database (backup_2015-02-15-1741_MontyEnglish_ca3bbd7ee0ee-db.gz); db count is now 3
+0447.724 (0) The time we have been running (445.4) is approaching the resumption interval (475) - increasing resumption interval to 476
+0447.825 (0) 1424022092: this backup set remains non-empty (0/1); will retain in history
+0447.934 (0) Examining backup set with datestamp: 1423934814 (Feb 14 2015 17:26:54)
+0448.034 (0) 1423934814: db: this set includes a database (backup_2015-02-14-1726_MontyEnglish_5ffb49289cac-db.gz); db count is now 4
+0448.587 (0) The time we have been running (446.5) is approaching the resumption interval (476) - increasing resumption interval to 477
+0448.787 (0) 1423934814: this backup set remains non-empty (0/1); will retain in history
+0448.789 (0) Examining backup set with datestamp: 1423848445 (Feb 13 2015 17:27:25)
+0448.792 (0) 1423848445: db: this set includes a database (backup_2015-02-13-1727_MontyEnglish_03d4bb941962-db.gz); db count is now 5
+0449.087 (0) The time we have been running (447.2) is approaching the resumption interval (477) - increasing resumption interval to 478
+0449.089 (0) 1423848445: this backup set remains non-empty (0/1); will retain in history
+0449.093 (0) Examining backup set with datestamp: 1423848444 (Feb 13 2015 17:27:24)
+0449.094 (0) 1423848444: db: this set includes a database (backup_2015-02-13-1727_MontyEnglish_b9034e3c9d0d-db.gz); db count is now 6
+0449.433 (0) 1423848444: this backup set remains non-empty (0/1); will retain in history
+0449.434 (0) Examining backup set with datestamp: 1423762148 (Feb 12 2015 17:29:08)
+0449.435 (0) 1423762148: db: this set includes a database (backup_2015-02-12-1729_MontyEnglish_497da075df63-db.gz); db count is now 7
+0449.798 (0) 1423762148: this backup set remains non-empty (0/1); will retain in history
+0449.809 (0) Examining backup set with datestamp: 1423675973 (Feb 11 2015 17:32:53)
+0449.910 (0) 1423675973: db: this set includes a database (backup_2015-02-11-1732_MontyEnglish_8e9a6a6037b4-db.gz); db count is now 8
+0450.332 (0) The time we have been running (448.4) is approaching the resumption interval (478) - increasing resumption interval to 479
+0450.334 (0) 1423675973: this backup set remains non-empty (0/1); will retain in history
+0450.335 (0) Examining backup set with datestamp: 1423589148 (Feb 10 2015 17:25:48)
+0450.336 (0) 1423589148: db: this set includes a database (backup_2015-02-10-1725_MontyEnglish_e91fb2c917cb-db.gz); db count is now 9
+0450.716 (0) 1423589148: this backup set remains non-empty (0/1); will retain in history
+0450.733 (0) Examining backup set with datestamp: 1423502322 (Feb 09 2015 17:18:42)
+0450.833 (0) 1423502322: db: this set includes a database (backup_2015-02-09-1718_MontyEnglish_e14c968ef4cf-db.gz); db count is now 10
+0451.157 (0) The time we have been running (449.3) is approaching the resumption interval (479) - increasing resumption interval to 480
+0451.357 (0) 1423502322: this backup set remains non-empty (0/1); will retain in history
+0451.396 (0) Examining backup set with datestamp: 1423416094 (Feb 08 2015 17:21:34)
+0451.398 (0) 1423416094: db: this set includes a database (backup_2015-02-08-1721_MontyEnglish_b21b775e8a45-db.gz); db count is now 11
+0451.729 (0) 1423416094: this backup set remains non-empty (0/1); will retain in history
+0451.841 (0) Examining backup set with datestamp: 1423329411 (Feb 07 2015 17:16:51)
+0451.848 (0) 1423329411: db: this set includes a database (backup_2015-02-07-1716_MontyEnglish_0cf3c5229a5d-db.gz); db count is now 12
+0452.499 (0) The time we have been running (450.4) is approaching the resumption interval (480) - increasing resumption interval to 481
+0452.601 (0) 1423329411: this backup set remains non-empty (0/1); will retain in history
+0452.603 (0) Examining backup set with datestamp: 1423242958 (Feb 06 2015 17:15:58)
+0452.605 (0) 1423242958: db: this set includes a database (backup_2015-02-06-1715_MontyEnglish_5fdecfaacd52-db.gz); db count is now 13
+0453.195 (0) The time we have been running (451.1) is approaching the resumption interval (481) - increasing resumption interval to 482
+0453.302 (0) 1423242958: this backup set remains non-empty (0/1); will retain in history
+0453.402 (0) Examining backup set with datestamp: 1423156560 (Feb 05 2015 17:16:00)
+0453.502 (0) 1423156560: db: this set includes a database (backup_2015-02-05-1716_MontyEnglish_f77bf9fc431a-db.gz); db count is now 14
+0453.940 (0) The time we have been running (452) is approaching the resumption interval (482) - increasing resumption interval to 483
+0454.042 (0) 1423156560: this backup set remains non-empty (0/1); will retain in history
+0454.155 (0) Examining backup set with datestamp: 1423071204 (Feb 04 2015 17:33:24)
+0454.255 (0) 1423071204: db: this set includes a database (backup_2015-02-04-1733_MontyEnglish_ee308f9c6fbb-db.gz); db count is now 15
+0454.652 (0) 1423071204: this backup set remains non-empty (0/1); will retain in history
+0454.753 (0) Retain: saving new backup history (sets now: 20) and finishing retain operation
+0454.859 (0) Resume backup (6c498b83e728, 0): finish run
+0454.963 (0) Decremented the semaphore (f) by 1
+0455.067 (0) Semaphore (f) unlocked
+0455.168 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0455.321 (0) No email will/can be sent - the user has not configured an email address.
+0455.420 (0) The backup apparently succeeded and is now complete
