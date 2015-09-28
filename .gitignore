@@ -3,3 +3,4 @@ wp-config.php
 node_modules
 .sass-cache
 sitemap.xml
+wp-content/updraft/log.*
